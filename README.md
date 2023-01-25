@@ -1,6 +1,13 @@
 # all_the_small_things
 # Small experimental snippets I came across and created along the way...
 
+## Pyxpressive app
+A protoapp written during my testing of NLTK tools for NLP <br>
+It allows user to perform basic lexicostatistical analysis of given texts. <br>
+Also, the list of referential words was obtained with blood and tears as I used <b> regular expressions </b> to extract these from a webpage sourcecode
+
+
+
 ## Pfylter apps
 A basic prototype of a simple photo editor to compare the use of PyQt5 and tkinter libraries
 
